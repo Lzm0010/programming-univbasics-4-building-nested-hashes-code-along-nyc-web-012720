@@ -22,7 +22,7 @@ def third_challenge
         age: ""
         },
       :matriarch => {
-        name: "Lord Capuler",
+        name: "Lord Capulet",
         age: ""
         },
       :heroine => {
